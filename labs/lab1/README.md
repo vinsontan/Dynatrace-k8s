@@ -10,7 +10,7 @@ Upon signup, you will have free credits tied to your GCP account. (12 months + 4
 
 You can login to your GCP console [here](https://console.cloud.google.com/home/).
 
-![GCP-Homepage](https://github.com/Nodnarboen/HOT-k8s/blob/master/assets/Picture1.png)
+![GCP-Homepage](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture1.png)
 
 ### 2. Enable Kubernetes Engine API 
 
@@ -24,7 +24,7 @@ If not, you can follow the steps [here](https://support.google.com/googleapi/ans
 
 ### 3. Activate Cloud Shell
 
-![GKE-Menu](https://github.com/Nodnarboen/HOT-k8s/blob/master/assets/Picture4.png)
+![GKE-Menu](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture4.png)
 
 Click on the Terminal Icon on the top right
 
@@ -34,7 +34,7 @@ We will start setting up our GKE Cluster
 
 ### 3. Create your GKE Cluster
 
-![GKE-CLI](https://github.com/Nodnarboen/HOT-k8s/blob/master/assets/Picture5.png)
+![GKE-CLI](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture5.png)
 
 For example for Australia Southeast, the command will be 
 
@@ -52,7 +52,7 @@ gcloud container clusters create performgo2019 --image-type=cos_containerd
 
 Once completed, you will have a running GKE Cluster!
 
-![GKE-CLI](https://github.com/Nodnarboen/HOT-k8s/blob/master/assets/Picture6.png)
+![GKE-CLI](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture6.png)
 
 Running <b>kubectl get nodes</b> will reveal number of nodes
 
