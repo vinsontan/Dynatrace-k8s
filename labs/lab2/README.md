@@ -15,7 +15,7 @@ git clone https://github.com/vinsontan/Dynatrace-k8s.git
 Install OneAgent Operator
 
 ``` bash
-cd HOT-k8s 
+cd Dynatrace-k8s 
 ./install-oneagent-operator.sh
 ```
 
