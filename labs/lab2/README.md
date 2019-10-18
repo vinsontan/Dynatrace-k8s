@@ -27,8 +27,11 @@ You can find it from <b>Settings</b> -> <b>Integration</b> -> <b>Dynatrace API</
 ![GKE-CLI-Indentation](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture7.0.png)
 
 ![GKE-CLI-Indentation](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture7.0.1.png)
+
 4. Enter your API token to the screen prompt.
 5. Get a Platform-as-a-Service token. You can find it from <b>Settings</b> -> <b>Integration</b> -> <b>Platform as a Service</b>
+![GKE-CLI-Indentation](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture7.0.1.png)
+
 6. Enter your PaaS token to the screen prompt.
 
 That's it! Dynatrace is now monitoring your GKE Environment!
