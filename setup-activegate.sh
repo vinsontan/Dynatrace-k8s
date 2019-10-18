@@ -7,7 +7,7 @@ gcloud compute instances create dynatrace-activegate \
 --image-project ubuntu-os-cloud \
 --zone australia-southeast1-a \
 
-gcloud compute scp ~/HOT-k8s/install-activegate.sh \
+gcloud compute scp ~/Dynatrace-k8s/install-activegate.sh \
       dynatrace-activegate:~/ --zone australia-southeast1-a
 
 gcloud compute ssh --zone australia-southeast1-a dynatrace-activegate --command "./install-activegate.sh $attendeeID $paastoken"
