@@ -24,6 +24,7 @@ It can be found in this format dynatrace-k8s-<b>AttendeeID</b>
 2. Enter your AttendeeID to the screen prompt.
 3. Get an API token for the Dynatrace API with the scope Access problem and event feed, metrics, and topology. 
 You can find it from <b>Settings</b> -> <b>Integration</b> -> <b>Dynatrace API</b> 
+![GKE-CLI-Indentation](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture7.0.png)
 4. Enter your API token to the screen prompt.
 5. Get a Platform-as-a-Service token. You can find it from <b>Settings</b> -> <b>Integration</b> -> <b>Platform as a Service</b>
 6. Enter your PaaS token to the screen prompt.
