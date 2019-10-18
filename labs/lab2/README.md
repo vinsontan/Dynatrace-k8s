@@ -4,7 +4,7 @@ Before running the Oneagent Operator, please make sure that deep monitoring for 
 
 Go to <b>Settings -> Processes and Container -> Container Monitoring</b>
 
-![GKE-CLI-Indentation](https://github.com/Nodnarboen/HOT-k8s/blob/master/assets/Picture6.1.png)
+![GKE-CLI-Indentation](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture6.1.png)
 
 Download codebase from Git repository
 
@@ -32,7 +32,7 @@ That's it! Dynatrace is now monitoring your GKE Environment!
 
 Steps have been automated from our [official documentation page](https://www.dynatrace.com/support/help/technology-support/cloud-platforms/google-cloud-platform/google-kubernetes-engine/deploy-oneagent-on-google-kubernetes-engine-clusters/)
 
-![GKE-CLI-Indentation](https://github.com/Nodnarboen/HOT-k8s/blob/master/assets/Picture7.png)
+![GKE-CLI-Indentation](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture7.png)
 
 ### Pointers / Troubleshooting Tips:
 
@@ -48,7 +48,7 @@ Official troubleshooting page could be found [here](https://www.dynatrace.com/su
 
 If everything is working, you will see the hosts appearing under Hosts from clicking Hosts under the left navigation bar.
 
-![GKE-Hosts](https://github.com/Nodnarboen/HOT-k8s/blob/master/assets/Picture7.1.png)
+![GKE-Hosts](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture7.1.png)
 
 :arrow_up: [Back to TOC](/README.md) :arrow_left: [Prev](../lab1/README.md)   :arrow_right: [Next](../lab3/README.md)  
 
