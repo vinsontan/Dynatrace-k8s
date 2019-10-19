@@ -10,7 +10,7 @@ After saving, you will need to re-apply the change.
 
 ```bash
 kubectl apply -f front-end.yml
-cd /HOT-k8s/
+cd /Dynatrace-k8s/
 ./recycle-sockshop-frontend.sh
 ```
 
