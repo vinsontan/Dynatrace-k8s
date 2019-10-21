@@ -8,9 +8,9 @@ For our Hands-On, you will need to run the sample application sock-shop
 ./deploy-sockshop.sh
 ```
 
-Once running, you can go to /HOT-k8s/manifests/sockshop-app/production/front-end.yml to view the content in it
+Once running, you can go to /Dynatrace-k8s/manifests/sockshop-app/production/front-end.yml to view the content in it
 
-![JSON](https://github.com/Nodnarboen/HOT-k8s/blob/master/assets/Picture11.png)
+![JSON](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture11.png)
 
 ### 2. Viewership role for service accounts
 The OneAgent will use a pod service account to query for its metadata via the Kubernetes REST API.
