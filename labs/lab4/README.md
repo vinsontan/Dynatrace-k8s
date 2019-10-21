@@ -28,9 +28,9 @@ Wait for the Dynatrace to pickup the change. Alternatively, you can recycle the 
 
 ### 3. Validate
 
-Once working, you can validate the change in Dynatrace
+Once working, you can validate the change in Dynatrace console by drilling down to one of the process below:
 
-![JSON](https://github.com/Nodnarboen/HOT-k8s/blob/master/assets/Picture12.png)
+![JSON](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture12.png)
 
 :arrow_up: [Back to TOC](/README.md) :arrow_left: [Prev](../lab3/README.md)   :arrow_right: [Next](../lab5/README.md)  
 
