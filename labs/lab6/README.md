@@ -38,7 +38,7 @@ In the conditions drop-down, select the property "<b>Kubernetes namespace</b>" a
 
 Click on <b>Preview</b>
 
-![JSON](https://github.com/Nodnarboen/HOT-k8s/blob/master/assets/Picture19.png)
+![JSON](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture19.png)
 
 Click on <b>Save</b>
 
@@ -46,6 +46,6 @@ Click on <b>Save</b>
 
 Once working, you can validate the change in Dynatrace
 
-![JSON](https://github.com/Nodnarboen/HOT-k8s/blob/master/assets/Picture20.png)
+![JSON](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture20.png)
 
 :arrow_up: [Back to TOC](/README.md) :arrow_left: [Prev](../lab5/README.md)   :arrow_right: [Next](../lab7/README.md)  
