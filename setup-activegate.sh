@@ -7,7 +7,7 @@ gcloud compute instances create dynatrace-activegate \
 --image-project ubuntu-os-cloud \
 --zone australia-southeast1-a \
 
-sleep 10 secs
+sleep 10s
 
 gcloud compute scp ~/Dynatrace-k8s/install-activegate.sh \
       dynatrace-activegate:~/ --zone australia-southeast1-a
