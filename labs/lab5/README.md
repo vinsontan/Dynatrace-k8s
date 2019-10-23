@@ -16,7 +16,7 @@ cd /Dynatrace-k8s/
 
 ### 2. Validate
 
-Once working, you can validate the change in Dynatrace
+Once working, you can validate the change in Dynatrace under the process properties
 
 ![JSON](https://github.com/vinsontan/Dynatrace-k8s/blob/master/assets/Picture14.png)
 
