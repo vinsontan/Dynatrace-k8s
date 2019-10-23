@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo wget -O Dynatrace-ActiveGate-Linux-x86-1.177.222.sh "https://mou612.managed-sprint.dynalabs.io/e/dynatrace-k8s-$1/api/v1/deployment/installer/gateway/unix/latest?Api-Token=$2&arch=x86&flavor=default" 
+sudo wget -O Dynatrace-ActiveGate-Linux-x86-1.177.222.sh "https://mou612.managed-sprint.dynalabs.io/e/dynatrace-k8s-$1--CreatedDate-23-10-2019/api/v1/deployment/installer/gateway/unix/latest?Api-Token=$2&arch=x86&flavor=default" 
 sudo /bin/sh Dynatrace-ActiveGate-Linux-x86-1.177.222.sh 
 
 sleep 10s
