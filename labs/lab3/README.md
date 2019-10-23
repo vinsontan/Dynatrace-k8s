@@ -25,6 +25,7 @@ With the values provided from the screen, copy and paste them into the Kubernete
 Go to <b>Settings</b> -> <b>Cloud and Virtualization</b> -> <b>Kubernetes</b>
 
 Click on the Connect cluster button and enter the Kubernetes URL and bearer token from the output command of setup-k8s-ui.sh.
+
 NOTE: when you click "connect" button after filling up the form, it might complain TLS error. Just wait for couple of minutes and try to connect again. It should connect successfully.
 
 
